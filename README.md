@@ -2,12 +2,12 @@ Apareo entre 2 archivos.
 
 Un archivo de clientes y otro de ventas.
 
-Archivo Clientes
+Archivo Clientes:
 Id cliente
 Descripción Cliente
 Dirección Cliente
 
-Archivo Ventas
+Archivo Ventas:
 Id Ventas
 Id Cliente
 Descripción producto vendido
